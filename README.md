@@ -1,7 +1,8 @@
 # stopwatch
-자바스크립트를 이용한 스탑워치 만들기
+
 ![Animation](https://github.com/jung-chaewon/stopwatch/assets/131144717/83210c4d-7695-492f-81e1-961def0ab010)
 
+자바스크립트를 이용한 스탑워치 만들기
 ### script
 ```javascript
   const timerEl = document.getElementById("timer");
